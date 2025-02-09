@@ -50,4 +50,5 @@ Data - HR Data with over 22000 rows from the year 2000 to 2020.
 
 
 ## DashBoard Link : 
-https://app.powerbi.com/links/-9mqHvyzXk?ctid=48a2c42f-2cd5-439c-ae36-bd81b9b32ebf&pbi_source=linkShare
+
+https://app.powerbi.com/view?r=eyJrIjoiNzYzMDYyMjMtZjBmZC00OGRkLWI1MjctODQ2MmQxOWU3NGZiIiwidCI6IjQ4YTJjNDJmLTJjZDUtNDM5Yy1hZTM2LWJkODFiOWIzMmViZiJ9
